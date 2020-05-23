@@ -15,7 +15,7 @@ Simple WPF program to manage book library.
 
 ## Screenshot
 
-![Default](/screenshots/s1.png)
-![Add new book](/screenshots/s2.png)
-![Add to lib](/screenshots/s3.png)
+![Default](/screenshots/s1.PNG)
+![Add new book](/screenshots/s2.PNG)
+![Add to lib](/screenshots/s3.PNG)
 
